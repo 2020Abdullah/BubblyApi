@@ -1,0 +1,38 @@
+{
+  "myinfo": {
+    "id": 1,
+    "name": "Abdallah",
+    "desc": "I am Abdallah, web designer from Egypt, cairo. I have rich experience in web site design and building and customization, also I am good at wordpress. I love to talk with you about our unique.",
+    "age": "24",
+    "country": "Egypt",
+    "city": "cairo",
+    "freelancer": "1"
+  },
+  "myServices": [
+    {
+      "id": 1,
+      "name": 1,
+      "desc": ""
+    }
+  ],
+  "myExper": [
+    {
+      "id": 1,
+      "date": "",
+      "name": "",
+      "decs": ""
+    }
+  ],
+  "myskills": [
+    {
+      "id": 1,
+      "skills": ""
+    }
+  ],
+  "myKnow": [
+    {
+      "id": 1,
+      "know": ""
+    }
+  ]
+}
